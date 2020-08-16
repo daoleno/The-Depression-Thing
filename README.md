@@ -1,5 +1,19 @@
 # The Depression Thing
 
+## Videos
+
+[What is depression?](https://youtu.be/z-IR48Mb3W0)
+
+[What is bipolar disorder?](https://youtu.be/RrWBhVlD1H8)
+
+[I had a black dog, his name was depression](https://youtu.be/XiCrniLQGYc)
+
+[Depression, the secret we share](https://youtu.be/-eBUcBfkVCo)
+
+["I'm Fine" - Learning To Live With Depression ](https://youtu.be/IDPDEKtd2yM)
+
+[Stanford's Sapolsky On Depression in U.S.](https://youtu.be/NOAgplgTxfc)
+
 ## Articles
 
 [The Depression Thing](https://zachholman.com/posts/the-depression-thing)
@@ -35,3 +49,29 @@
 [Existential depression in gifted individuals](https://www.davidsongifted.org/search-database/entry/a10269)
 
 [My dad killed himself when I was 13. He hid his depression. I won’t hide mine.](https://www.washingtonpost.com/news/inspired-life/wp/2016/02/09/my-dad-killed-himself-when-i-was-13-he-hid-his-depression-i-wont-hide-mine/)
+
+[People with depression use language differently – here’s how to spot it](https://theconversation.com/people-with-depression-use-language-differently-heres-how-to-spot-it-90877)
+
+[Changing Your Diet Can Help Tamp Down Depression, Boost Mood](https://www.npr.org/sections/thesalt/2019/10/09/768665411/changing-your-diet-can-help-tamp-down-depression-boost-mood)
+
+[Magnesium and major depression](https://www.ncbi.nlm.nih.gov/books/NBK507265/)
+
+[One Road Out of Depression](https://thinkfaster.co/2016/10/one-road-out-of-depression/)
+
+[Toward A Predictive Theory Of Depression](https://slatestarcodex.com/2017/09/12/toward-a-predictive-theory-of-depression/)
+
+[Is social media causing childhood depression?](https://www.bbc.com/news/technology-42705881)
+
+[Single dose of psychedelic drug eased cancer patients' anxiety, depression for years](https://www.nbcnews.com/health/mental-health/single-dose-psychedelic-drug-eased-cancer-patients-anxiety-depression-years-n1123451)
+
+[Yale scientists explain how ketamine vanquishes depression within hours](https://news.yale.edu/2012/10/04/yale-scientists-explain-how-ketamine-vanquishes-depression-within-hours)
+
+[Aerobic exercise is an effective treatment for depression](https://evidence.nihr.ac.uk/alert/aerobic-exercise-is-an-effective-treatment-for-depression/)
+
+[Sick](http://www.aaronsw.com/weblog/verysick)
+
+[Why Do People With Depression Like Listening To Sad Music?](https://digest.bps.org.uk/2019/04/24/why-do-people-with-depression-like-listening-to-sad-music/)
+
+[Can staying awake beat depression?](https://www.bbc.com/future/article/20180123-can-staying-awake-beat-depression?referer=https%3A%2F%2Fnews.ycombinator.com%2F)
+
+[The Other Side of Depression](http://www.annewheaton.com/the-other-side-of-depression/)
